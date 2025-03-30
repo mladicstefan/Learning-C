@@ -8,3 +8,4 @@ This repository is a collection of small projects written in C as part of my lea
 - **comment_remover**: Removes comments from C source files.
 - **bubble_sort**: Implements the bubble sort algorithm to sort an array of numbers.
 - **linked-list**: Implementation of a Linked List in C.
+- **JsonParser**: Using MPC library to validate JSON input.
