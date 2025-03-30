@@ -44,7 +44,9 @@ int main()
   first = 0;
   numBooks = 0;
 
-  addbook("The Bible", 3500);
+  addbook("Old Testament", 3500);
   printf("%s\n", first->title);
   printf("%d\n", first->pages);
+  addbook("New Testament", 350);
+  printf("%s\n", first->next->title);
 }
